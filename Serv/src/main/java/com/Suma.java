@@ -12,7 +12,7 @@ import java.io.PrintWriter;
  * Servlet implementation class Suma
  */
 public class Suma extends HttpServlet {
-	private static final long serialVersionUID = 1L;
+	private static fina long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
